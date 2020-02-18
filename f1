@@ -1,4 +1,6 @@
 void main()
 # include stdio.h[]
-ljnlkjfslkfsmkl
-dnjadnlsnl
+#include math.h
+reset vs revert
+stash vs revert
+reset vs restore
